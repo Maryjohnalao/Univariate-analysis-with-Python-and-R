@@ -1,0 +1,12 @@
+data<-read.csv('HR_comma_sep.csv,')
+
+head(data)
+tail(data)
+dim(data)
+str(data)
+summary(data)
+mean(data $ promotion_last_5years)
+median(data $ promotion_last_5years)
+var(data $ promotion_last_5years)
+sd(data $ promotion_last_5years)
+table(data $ promotion_last_5years)
